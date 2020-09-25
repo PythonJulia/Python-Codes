@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**PythonJulia/PythonJulia** is a ✨ _special_ ✨ repository. 
+**PythonJulia/PythonJulia** is a ✨ _special_ ✨ repository for Python, Julia Data Science and Machine Learning
 
 About Me...
 
